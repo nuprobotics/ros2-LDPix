@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+config/task03.yaml
+launch/task03.launch.py
+resource/task03
+task03/__init__.py
+task03/trigger_proxy.py
+task03.egg-info/PKG-INFO
+task03.egg-info/SOURCES.txt
+task03.egg-info/dependency_links.txt
+task03.egg-info/entry_points.txt
+task03.egg-info/requires.txt
+task03.egg-info/top_level.txt
+task03.egg-info/zip-safe

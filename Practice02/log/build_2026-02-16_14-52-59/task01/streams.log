@@ -1,0 +1,26 @@
+[0.360s] Invoking command in '/ws/Practice02/build/task01': PYTHONPATH=/ws/Practice02/build/task01/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/Practice02/install/task01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /ws/Practice02/build/task01/build --no-deps symlink_data
+[0.447s] running develop
+[0.476s] running egg_info
+[0.476s] creating task01.egg-info
+[0.480s] writing task01.egg-info/PKG-INFO
+[0.481s] writing dependency_links to task01.egg-info/dependency_links.txt
+[0.481s] writing entry points to task01.egg-info/entry_points.txt
+[0.482s] writing requirements to task01.egg-info/requires.txt
+[0.482s] writing top-level names to task01.egg-info/top_level.txt
+[0.483s] writing manifest file 'task01.egg-info/SOURCES.txt'
+[0.487s] reading manifest file 'task01.egg-info/SOURCES.txt'
+[0.489s] writing manifest file 'task01.egg-info/SOURCES.txt'
+[0.490s] running build_ext
+[0.491s] Creating /ws/Practice02/install/task01/lib/python3.10/site-packages/task01.egg-link (link to .)
+[0.493s] Installing receiver script to /ws/Practice02/install/task01/lib/task01
+[0.494s] 
+[0.494s] Installed /ws/Practice02/build/task01
+[0.494s] running symlink_data
+[0.494s] creating /ws/Practice02/install/task01/share/ament_index
+[0.495s] creating /ws/Practice02/install/task01/share/ament_index/resource_index
+[0.495s] creating /ws/Practice02/install/task01/share/ament_index/resource_index/packages
+[0.496s] symbolically linking /ws/Practice02/build/task01/resource/task01 -> /ws/Practice02/install/task01/share/ament_index/resource_index/packages
+[0.497s] symbolically linking /ws/Practice02/build/task01/package.xml -> /ws/Practice02/install/task01/share/task01
+[0.497s] creating /ws/Practice02/install/task01/share/task01/launch
+[0.497s] symbolically linking /ws/Practice02/build/task01/launch/task01.launch.py -> /ws/Practice02/install/task01/share/task01/launch
+[0.509s] Invoked command in '/ws/Practice02/build/task01' returned '0': PYTHONPATH=/ws/Practice02/build/task01/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/Practice02/install/task01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /ws/Practice02/build/task01/build --no-deps symlink_data

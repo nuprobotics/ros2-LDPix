@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating task03.egg-info
+writing task03.egg-info/PKG-INFO
+writing dependency_links to task03.egg-info/dependency_links.txt
+writing entry points to task03.egg-info/entry_points.txt
+writing requirements to task03.egg-info/requires.txt
+writing top-level names to task03.egg-info/top_level.txt
+writing manifest file 'task03.egg-info/SOURCES.txt'
+reading manifest file 'task03.egg-info/SOURCES.txt'
+writing manifest file 'task03.egg-info/SOURCES.txt'
+running build_ext
+Creating /ws/Practice02/install/task03/lib/python3.10/site-packages/task03.egg-link (link to .)
+Installing trigger_proxy script to /ws/Practice02/install/task03/lib/task03
+
+Installed /ws/Practice02/build/task03
+running symlink_data
+creating /ws/Practice02/install/task03/share/ament_index
+creating /ws/Practice02/install/task03/share/ament_index/resource_index
+creating /ws/Practice02/install/task03/share/ament_index/resource_index/packages
+symbolically linking /ws/Practice02/build/task03/resource/task03 -> /ws/Practice02/install/task03/share/ament_index/resource_index/packages
+symbolically linking /ws/Practice02/build/task03/package.xml -> /ws/Practice02/install/task03/share/task03
+creating /ws/Practice02/install/task03/share/task03/launch
+symbolically linking /ws/Practice02/build/task03/launch/task03.launch.py -> /ws/Practice02/install/task03/share/task03/launch
+creating /ws/Practice02/install/task03/share/task03/config
+symbolically linking /ws/Practice02/build/task03/config/task03.yaml -> /ws/Practice02/install/task03/share/task03/config

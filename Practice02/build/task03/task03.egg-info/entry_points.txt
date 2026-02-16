@@ -1,0 +1,3 @@
+[console_scripts]
+trigger_proxy = task03.trigger_proxy:main
+

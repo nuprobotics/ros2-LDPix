@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating task01.egg-info
+writing task01.egg-info/PKG-INFO
+writing dependency_links to task01.egg-info/dependency_links.txt
+writing entry points to task01.egg-info/entry_points.txt
+writing requirements to task01.egg-info/requires.txt
+writing top-level names to task01.egg-info/top_level.txt
+writing manifest file 'task01.egg-info/SOURCES.txt'
+reading manifest file 'task01.egg-info/SOURCES.txt'
+writing manifest file 'task01.egg-info/SOURCES.txt'
+running build_ext
+Creating /ws/Practice02/install/task01/lib/python3.10/site-packages/task01.egg-link (link to .)
+Installing receiver script to /ws/Practice02/install/task01/lib/task01
+
+Installed /ws/Practice02/build/task01
+running symlink_data
+creating /ws/Practice02/install/task01/share/ament_index
+creating /ws/Practice02/install/task01/share/ament_index/resource_index
+creating /ws/Practice02/install/task01/share/ament_index/resource_index/packages
+symbolically linking /ws/Practice02/build/task01/resource/task01 -> /ws/Practice02/install/task01/share/ament_index/resource_index/packages
+symbolically linking /ws/Practice02/build/task01/package.xml -> /ws/Practice02/install/task01/share/task01
+creating /ws/Practice02/install/task01/share/task01/launch
+symbolically linking /ws/Practice02/build/task01/launch/task01.launch.py -> /ws/Practice02/install/task01/share/task01/launch

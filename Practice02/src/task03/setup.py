@@ -11,7 +11,7 @@ setup(
          ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
         ('share/' + package_name + '/launch',
-         ['launch/task03.launch.py']),
+         ['launch/task03.launch']),
         ('share/' + package_name + '/config',
          ['config/task03.yaml']),
     ],

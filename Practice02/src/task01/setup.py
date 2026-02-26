@@ -13,7 +13,7 @@ setup(
          ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
         ('share/' + package_name + '/launch',
-         ['launch/task01.launch.py']),
+         ['launch/task01.launch']),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
